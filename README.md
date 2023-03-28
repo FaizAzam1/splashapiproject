@@ -17,7 +17,7 @@ UNSPLASH_KEY=<Paste copied Access Key here>
 **EXAMPLE** with fake code(don't try to use it in your app):
 
 ```
-UNSPLASH_KEY=2MJvApIkV13hfg2LmQlneILfHoJ2ttlzSdPKefGOyKM
+UNSPLASH_KEY=<apikey>
 ```
 
 - Save modified **.env.local** file
