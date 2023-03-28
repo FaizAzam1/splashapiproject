@@ -1,4 +1,5 @@
-IMPORTANT: Frontend only works with nodejs version 16.x.x
+IMPORTANT: this project requires python , pip , and pipenv installed. Don't forget to run Pipenv shell before running Backend. 
+Also if hosting on cloud, this Frontend only works on Nodejs version 16.x.x
 
 ## Initial configuration
 
