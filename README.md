@@ -1,6 +1,4 @@
-# Docker Project
-
-Project for the **Dockerfiles** and **Docker Compose** sections
+IMPORTANT: Frontend only works with nodejs version 16.x.x
 
 ## Initial configuration
 
@@ -21,3 +19,5 @@ UNSPLASH_KEY=2MJvApIkV13hfg2LmQlneILfHoJ2ttlzSdPKefGOyKM
 ```
 
 - Save modified **.env.local** file
+
+
