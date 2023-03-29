@@ -23,3 +23,4 @@ UNSPLASH_KEY=<apikey>
 - Save modified **.env.local** file
 
 
+# spashproject
